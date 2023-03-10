@@ -7,16 +7,17 @@ Training accuracy ~0.99.
 
 Full image library can be found in data folder.
 
-# Requirements
+## Requirements
 * Python 3
 * Pygame
 * Tensorflow
-# Usage
+## Usage
 To run
-'''
+
+```
 python main.py
-'''
+```
 To train the model
-'''
+```
 python train.py
-'''
+```
