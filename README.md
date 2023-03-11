@@ -17,3 +17,8 @@ To train the model (extract data folder first)
 ```
 python train.py
 ```
+## Screenshots
+![img](/001.jpg)
+![img](/002.jpg)
+![img](/003.jpg)
+![img](/004.jpg)
