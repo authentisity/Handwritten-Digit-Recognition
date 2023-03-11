@@ -7,10 +7,6 @@ Training accuracy ~0.99.
 
 Includes full image library.
 
-## Requirements
-* Python 3
-* Pygame
-* Tensorflow
 ## Usage
 To run
 
