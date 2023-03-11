@@ -1,3 +1,7 @@
+'''
+author: Hankang Li
+'''
+
 import tensorflow as tf
 import numpy, pygame, math
 from PIL import Image
